@@ -9,4 +9,5 @@ TEMA
 -Funciones - functions<br>
 -Lectura de archivos - read and write<br>
 -Manejo Pandas<br>
-- LOC and ILOC
+-LOC and ILOC<br>
+-Uso de Apis<br>
